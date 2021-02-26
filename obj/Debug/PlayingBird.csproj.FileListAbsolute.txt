@@ -1,0 +1,10 @@
+D:\C#\PlayingBird\bin\Debug\PlayingBird.exe.config
+D:\C#\PlayingBird\bin\Debug\PlayingBird.exe
+D:\C#\PlayingBird\bin\Debug\PlayingBird.pdb
+D:\C#\PlayingBird\obj\Debug\PlayingBird.csprojAssemblyReference.cache
+D:\C#\PlayingBird\obj\Debug\PlayingBird.Form1.resources
+D:\C#\PlayingBird\obj\Debug\PlayingBird.Properties.Resources.resources
+D:\C#\PlayingBird\obj\Debug\PlayingBird.csproj.GenerateResource.cache
+D:\C#\PlayingBird\obj\Debug\PlayingBird.csproj.CoreCompileInputs.cache
+D:\C#\PlayingBird\obj\Debug\PlayingBird.exe
+D:\C#\PlayingBird\obj\Debug\PlayingBird.pdb
